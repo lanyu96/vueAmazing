@@ -1,1 +1,2 @@
 # vueAmazing
+new Workspace
